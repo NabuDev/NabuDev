@@ -22,8 +22,8 @@
 </p>
 
 <p align="left">
-<a href="mailto:gmail@gmail.com" alt="Gmail">
-<img src="https://img.shields.io/badge/-gmail@gmail.com-e34c41?style=flat-square&labelColor=e34c41&logo=gmail&logoColor=white&link=gmail@gmail.com" /></a>
+<a href="mailto: contatogabrielcampos1@gmail.com" alt="Gmail">
+<img src="https://img.shields.io/badge/-contatogabrielcampos1@gmail.com-e34c41?style=flat-square&labelColor=e34c41&logo=gmail&logoColor=white&link=contatogabrielcampos1@gmail.com" /></a>
   
 <a href="https://www.linkedin.com/" alt="Linkedin">
 <img src="https://img.shields.io/badge/-Linkedin%20-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/" /></a>
