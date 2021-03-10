@@ -1,7 +1,7 @@
 <img src="https://media.tenor.com/images/6503d984715a73c0c5e1715789498361/tenor.gif" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador IuriCode">
 
 <p align="left">
-  👩🏻‍💻 Olá, meu nome é Gabriel Campos, tenho 22 anos e curso Ciência da Computação.
+  👩🏻‍💻 Olá, meu nome é Gabriel Campos, tenho 23 anos e curso Ciência da Computação.
 </p>
 
 <p align="left">
